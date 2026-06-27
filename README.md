@@ -90,7 +90,7 @@ BharatKeyIME/
 ## Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/BharatKeyIME.git
+git clone https://github.com/irashad1707/BharatKeyIME.git
 ```
 
 Open Android Studio.
@@ -100,33 +100,6 @@ Open the project.
 Sync Gradle.
 
 Run the application.
-
----
-
-# 🔨 Build APK
-
-```
-Build
-↓
-
-Generate Signed Bundle / APK
-
-↓
-
-APK
-```
-
-or
-
-```
-./gradlew assembleDebug
-```
-
-Release APK
-
-```
-./gradlew assembleRelease
-```
 
 ---
 
