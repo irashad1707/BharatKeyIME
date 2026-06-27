@@ -54,9 +54,10 @@ The project aims to provide:
 
 ## 📱 Screenshots
 
-| Keyboard | Settings |
-|----------|----------|
-| ![](docs/screenshots/App.png) | ![](docs/screenshots/NotificationSwitch.png) |
+<p align="center">
+  <img src="docs/images/screenshots/App.png" width="45%">
+  <img src="docs/images/screenshots/NotificationSwitch.png" width="45%">
+</p>
 ---
 
 # 📂 Project Structure
