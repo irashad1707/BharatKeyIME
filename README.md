@@ -1,4 +1,4 @@
-# 🇮🇳 BharatKey IME
+#  BharatKey IME
 
 <p align="center">
   <img src="docs/images/logo.png" alt="BharatKey IME Logo" width="180"/>
