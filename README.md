@@ -52,12 +52,11 @@ The project aims to provide:
 
 ---
 
-# 📱 Screenshots
+## 📱 Screenshots
 
 | Keyboard | Settings |
-| -------- | -------- |
-|          |          |
-
+|----------|----------|
+| ![](docs/screenshots/App.png) | ![](docs/screenshots/NotificationSwitch.png) |
 ---
 
 # 📂 Project Structure
